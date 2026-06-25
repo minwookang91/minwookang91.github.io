@@ -1,0 +1,96 @@
+[
+  {
+    "year": 2026,
+    "type": "Preprint",
+    "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization",
+    "authors": "<strong>Kang, M.</strong>, Cabral, A. T., Sawant, M., & Thiam, H. R.",
+    "venue": "bioRxiv",
+    "doi": "10.64898/2026.03.30.715467",
+    "status": "Under revision",
+    "featured": true,
+    "abstract": "Quantifying chromatin-state dynamics in living cells remains challenging because most molecular assays require fixation or cell lysis. This study benchmarks CV, 1-Gini, and the Diffuse Signal Index as live-cell image-derived readouts of chromatin organization during NETosis and mitosis."
+  },
+  {
+    "year": 2025,
+    "type": "Preprint",
+    "title": "Chromatin is a long-range force generator that regulates plasma membrane tension and cell integrity independently of gene expression",
+    "authors": "Cabral, A. T., Sawant, M., <strong>Kang, M.</strong>, Liangqi, X., & Thiam, H. R.",
+    "venue": "bioRxiv",
+    "doi": "10.1101/2025.10.02.680155",
+    "status": "Under revision",
+    "featured": true
+  },
+  {
+    "year": 2025,
+    "type": "Article",
+    "title": "EMT induction in normal breast epithelial cells by COX2-expressing fibroblasts",
+    "authors": "<strong>Kang, M.</strong>, Devarasou, S., Kwon, T. Y., & Shin, J. H.",
+    "venue": "Cell Communication and Signaling, 23(1)",
+    "doi": "10.1186/s12964-025-02227-7"
+  },
+  {
+    "year": 2025,
+    "type": "Article",
+    "title": "AI-driven classification of cancer-associated fibroblasts using morphodynamic and motile features",
+    "authors": "<strong>Kang, M.</strong>, Min, C., Devarasou, S., & Shin, J. H.",
+    "venue": "APL Bioengineering",
+    "doi": "10.1063/5.0250502",
+    "status": "Featured article"
+  },
+  {
+    "year": 2025,
+    "type": "Article",
+    "title": "Tension-sensitive HOX gene expression in fibroblasts for differential scar formation",
+    "authors": "<strong>Kang, M.</strong>, Ko, U. H., Oh, E. J., Kim, H. M., Chung, H. Y., & Shin, J. H.",
+    "venue": "Journal of Translational Medicine, 23(1), 168",
+    "doi": "10.1186/s12967-025-06191-1"
+  },
+  {
+    "year": 2024,
+    "type": "Review",
+    "title": "Biophysical perspectives to understanding cancer-associated fibroblasts",
+    "authors": "Devarasou, S., <strong>Kang, M.</strong>, & Shin, J. H.",
+    "venue": "APL Bioengineering, 8(2)",
+    "doi": "10.1063/5.0199024"
+  },
+  {
+    "year": 2023,
+    "type": "Article",
+    "title": "Fibrous matrix architecture-dependent activation of fibroblasts with a cancer-associated fibroblast-like phenotype",
+    "authors": "Devarasou, S., <strong>Kang, M.</strong>, Kwon, T. Y., Cho, Y., & Shin, J. H.",
+    "venue": "ACS Biomaterials Science & Engineering, 9(1), 280-291",
+    "doi": "10.1021/acsbiomaterials.2c00694"
+  },
+  {
+    "year": 2023,
+    "type": "Article",
+    "title": "Influence of transforming growth factors beta 1 and beta 3 in the scar formation process",
+    "authors": "Lee, J. S., Cho, H. G., Lee, J. W., Oh, E. J., Kim, H. M., Ko, U. H., <strong>Kang, M.</strong>, Shin, J. H., & Chung, H. Y.",
+    "venue": "Journal of Craniofacial Surgery, 34(3), 904-909",
+    "doi": "10.1097/SCS.0000000000009087"
+  },
+  {
+    "year": 2017,
+    "type": "Article",
+    "title": "A comparative study on the Francis turbine performances according to the different vane shape",
+    "authors": "Park, N., Kim, K., <strong>Kang, M.</strong>, Suh, S.-H., Ryu, G., Kim, S. J., & Park, T.",
+    "venue": "The KSFM Journal of Fluid Machinery, 20(4), 19-24",
+    "doi": "10.5293/kfma.2017.20.4.019"
+  },
+  {
+    "year": 2017,
+    "type": "Article",
+    "title": "A comparative study on the operation capabilities according to the different capsule shapes in pneumatic capsule pipeline",
+    "authors": "Kim, H.-H., Jung, Y. H., <strong>Kang, M.</strong>, & Suh, S.-H.",
+    "venue": "The KSFM Journal of Fluid Machinery, 20(4), 56-61",
+    "doi": "10.5293/kfma.2017.20.4.056"
+  },
+  {
+    "year": 2016,
+    "type": "Article",
+    "title": "Numerical study on sediment erosion of Francis turbine with different operating conditions and sediment inflow rates",
+    "authors": "<strong>Kang, M.</strong>, Park, N., & Suh, S.-H.",
+    "venue": "Procedia Engineering, 157, 457-464",
+    "doi": "10.1016/j.proeng.2016.08.389"
+  }
+]
