@@ -136,7 +136,7 @@ h2 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(38px, 5vw,
 .force-probe::after { content:""; position:absolute; width: 52px; height: 16px; left:-22px; bottom:-8px; border-radius: 50%; background: var(--gold); }
 .sample { position: absolute; width: 190px; height: 90px; left: calc(50% - 95px); top: 235px; border-radius: 50% 50% 42% 44%; background: rgba(44,122,120,.38); border: 3px solid var(--teal); }
 .statement-card { padding: 56px; border-radius: 26px; background: var(--navy-deep); color: white; }
-.statement-card p { margin: 0; font-family: Georgia, serif; font-size: clamp(28px, 4vw, 44px); line-height: 1.25; }
+.statement-card p { margin: 0; font-family: Georgia, serif; font-size: clamp(22px, 2.6vw, 32px); line-height: 1.4; }
 
 .publication-hero { display: flex; justify-content: space-between; align-items: end; gap: 50px; }
 .metric-box { min-width: 180px; padding: 24px; border-radius: 22px; color: white; background: var(--navy); }
