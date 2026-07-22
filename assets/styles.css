@@ -53,6 +53,8 @@ h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; font-size
 .intro-grid h2, .awards-band h2 { color: white; }
 h2 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(38px, 5vw, 58px); line-height: 1.08; font-weight: 500; letter-spacing: -.035em; color: var(--navy-deep); margin-bottom: 24px; }
 .prose { font-size: 19px; color: #dbe4e9; }
+.prose a { color: #f0c36b; font-weight: 700; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.prose a:hover { color: white; }
 .prose p:last-child { margin-bottom: 0; }
 
 .section { padding-block: 100px; }
