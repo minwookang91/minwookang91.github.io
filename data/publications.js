@@ -8,7 +8,7 @@ window.PUBLICATIONS = [
     "doi": "10.64898/2026.03.30.715467",
     "status": "Under revision",
     "featured": true,
-    "abstract": "Quantifying chromatin-state dynamics in living cells remains challenging because most molecular assays require fixation or cell lysis. This study benchmarks CV, 1-Gini, and the Diffuse Signal Index as live-cell image-derived readouts of chromatin organization during NETosis and mitosis."
+    "abstract": "Quantifying chromatin-state dynamics in living cells remains challenging, in part because most methods require fixation or cell lysis. Here, we benchmark and introduce three simple live-cell image-derived metrics computed from routine DNA staining—the coefficient of variation (CV), 1-Gini, and the Diffuse Signal Index (DSI), introduced here—as fixation-free readouts of chromatin state. Using HL60-derived neutrophils (dHL-60) undergoing NETosis as a model system with a pronounced compact-to-decompact chromatin transition, we show that all three metrics track progressive chromatin reorganization in live-cell trajectories, but differ markedly in sensitivity: DSI provides the strongest trajectory-level discrimination between NETing and non-NETing cells, followed by 1-Gini and CV. Comparison with Tn5-based chromatin accessibility measurements in fixed cells further shows that all three metrics correlate with chromatin accessibility, supporting their biological relevance. Together, our results provide a practical framework for extracting chromatin-state readouts from routine live-cell DNA staining and identify DSI as the most discriminative metric for tracking chromatin reorganization in this benchmark."
   },
   {
     "year": 2025,
@@ -18,7 +18,8 @@ window.PUBLICATIONS = [
     "venue": "bioRxiv",
     "doi": "10.1101/2025.10.02.680155",
     "status": "Under revision",
-    "featured": true
+    "featured": true,
+    "abstract": "Primarily studied for its role in gene expression, chromatin organization is emerging as an important regulator of nuclear mechanics. Although the nucleus is in mechanical equilibrium with the cell, we do not know whether and how chromatin reorganization actively regulates the mechanical properties and downstream behaviors of cells. Here, we tested the hypothesis that as a dynamic crosslinked polymer, chromatin directly impacts cell mechanics independently of transcription by studying NETosis: a transcription-independent process where chromatin decompacts and the plasma membrane (PM) ruptures. Using high resolution microscopy and ATAC-see, we found that chromatin accessibility progressively increases during NETosis suggesting that chromatin binding proteins (CBPs) dissociate from chromatin during NETosis. To determine the identity and dynamics of these dissociated CBPs, we used fluorescent recovery after photobleaching to measure the mobility and localization of the linker histone H1, the nucleosomal histone H3 and the heterochromatin binding protein HP1α. We found that the mobile fraction of nuclear H1 increases during NETosis while fractions of HP1α and H3 diffuse outside of the nucleus suggesting that they become cytosolic osmolytes and potentially alter the mechanical state of cells. Consistently, we found that plasma membrane tension and cell volume increase as chromatin decompacts during NETosis. In non-NETing U2OS cells, we found that inducing chromatin decompaction increases plasma membrane tension, independently of the cytoskeleton, indicating a causal relationship between chromatin organization, cell volume and plasma membrane tension. Our findings reveal a novel non- genetic role of chromatin in cellular biophysics: regulating cell volume, PM tension, and thus, overall cell mechanics. Considering the critical role of cell mechanics in biological processes such as cell migration, proliferation and pathogen killing, our work broadens our understanding of how chromatin regulates cell physiology and pathology. Significance Statement: Chromatin organizes our DNA inside the nucleus and is important for gene expression. However, chromatin is also a polymer which can passively regulate the rigidity of the nucleus, but whether and how chromatin can actively regulate the mechanical properties of the whole cell remains unknown. Here, we leverage the immune process of NETosis to show that the organization of chromatin inside the nucleus actively regulates the volume and tension of cells. Our work establishes chromatin as a long-range force generator in cells, broadening our understanding of the roles of this crucial polymer network in cells and opening the door to new strategies for controlling the mechanical properties of cells as needed by their physiology."
   },
   {
     "year": 2025,
@@ -26,16 +27,18 @@ window.PUBLICATIONS = [
     "title": "EMT induction in normal breast epithelial cells by COX2-expressing fibroblasts",
     "authors": "<strong>Kang, M.</strong>, Devarasou, S., Kwon, T. Y., & Shin, J. H.",
     "venue": "Cell Communication and Signaling, 23(1)",
-    "doi": "10.1186/s12964-025-02227-7"
+    "doi": "10.1186/s12964-025-02227-7",
+    "abstract": "Background: The tumor microenvironment (TME) plays a pivotal role in cancer progression, with cancer-associated fibroblasts (CAFs) significantly influencing tumor behavior. Especially, elevated COX2 expressing fibroblasts within the TME, notably in collagen-dense tumors like breast cancer, has been recently emphasized in the literature. However, the specific effect of COX2-expressing CAFs (COX2+ CAFs) on neighboring cells and their consequent role in cancer progression is not fully elucidated. Methods: We induced COX2+ fibroblasts by forcing the fibroblasts forming aggregates to undergo Nemosis as a proxy for COX2+ CAFs. This approach enabled us to simulate the paracrine interactions between COX2+ CAFs and normal breast epithelial cells via conditioned media from COX2+ fibroblasts. We developed an innovative in vitro platform that combines cell mechanics-based analysis and biomolecular assays to study the interactions between COX2+ fibroblasts and normal breast epithelial cells. By focusing on the mechanical characteristics of the cells and the epithelial-mesenchymal transition (EMT) marker expressions, we aimed to elucidate the paracrine mechanisms through which COX2+ CAFs influence the tumor microenvironment. Results: Our in vitro findings demonstrate that COX2+ fibroblasts, through conditioned media, induce significant alterations in the mechanical behavior of normal breast epithelial cells, as evidenced by monolayer expansion measurements using traction force microscopy (TFM). This transition was further corroborated by single-cell morphology and motility analyses, as well as increased expression of mesenchymal markers, including SNAI1 at the mRNA level and vimentin at the protein level. EP4 inhibition partially reversed these changes, preserving cell-cell interactions, limiting monolayer expansion, and reducing mesenchymal-like features, suggesting that PGE2-EP4 signaling plays a key role in mediating the paracrine effects of COX2+ fibroblasts. Together, our findings support a model in which PGE2-EP4 signaling contributes to EMT induction, potentially involving SNAI1 regulation, with implications for targeting stromal-epithelial interactions in breast cancer. Conclusion: This study advances our understanding of the potential mechanisms by which COX2+ CAFs influence tumor progression within the breast tumor microenvironment (TME) through controlled in vitro investigations. By integrating cell mechanics-based analysis, biomolecular assays, and innovative in vitro cell-based modeling of COX2+ CAFs, we have delineated the contributory role of these cells in a controlled setting. These insights lay a groundwork for future studies that could explore the implications of these findings in vivo, potentially guiding targeted therapeutic strategies."
   },
   {
     "year": 2025,
     "type": "Article",
-    "title": "AI-driven classification of cancer-associated fibroblasts using morphodynamic and motile features",
+    "title": "Classification of differentially activated groups of fibroblasts using morphodynamic and motile features",
     "authors": "<strong>Kang, M.</strong>, Min, C., Devarasou, S., & Shin, J. H.",
     "venue": "APL Bioengineering",
     "doi": "10.1063/5.0250502",
-    "status": "Featured article"
+    "status": "Featured article",
+    "abstract": "Fibroblasts play essential roles in cancer progression, exhibiting activation states that can either promote or inhibit tumor growth. Understanding these differential activation states is critical for targeting the tumor microenvironment (TME) in cancer therapy. However, traditional molecular markers used to identify cancer-associated fibroblasts are limited by their co-expression across multiple fibroblast subtypes, making it difficult to distinguish specific activation states. Morphological and motility characteristics of fibroblasts reflect their underlying gene expression patterns and activation states, making these features valuable descriptors of fibroblast behavior. This study proposes an artificial intelligence-based classification framework to identify and characterize differentially activated fibroblasts by analyzing their morphodynamic and motile features. We extract these features from label-free live-cell imaging data of fibroblasts co-cultured with breast cancer cell lines using deep learning and machine learning algorithms. Our findings show that morphodynamic and motile features offer robust insights into fibroblast activation states, complementing molecular markers and overcoming their limitations. This biophysical state-based cellular classification framework provides a novel, comprehensive approach for characterizing fibroblast activation, with significant potential for advancing our understanding of the TME and informing targeted cancer therapies."
   },
   {
     "year": 2025,
@@ -43,7 +46,8 @@ window.PUBLICATIONS = [
     "title": "Tension-sensitive HOX gene expression in fibroblasts for differential scar formation",
     "authors": "<strong>Kang, M.</strong>, Ko, U. H., Oh, E. J., Kim, H. M., Chung, H. Y., & Shin, J. H.",
     "venue": "Journal of Translational Medicine, 23(1), 168",
-    "doi": "10.1186/s12967-025-06191-1"
+    "doi": "10.1186/s12967-025-06191-1",
+    "abstract": "Background: Scar formation is a common end-point of the wound healing process, but its mechanisms, particularly in relation to abnormal scars such as hypertrophic scars and keloids, remain not fully understood. This study unveils a novel mechanistic insight into scar formation by examining the differential expression of Homeobox (HOX) genes in response to mechanical forces in fibroblasts derived from normal skin, hypertrophic scars, and keloids. Methods: We isolated fibroblasts from different scar types and conducted RNA sequencing (RNA-Seq) to identify differential gene expression patterns among the fibroblasts. Computational modeling provided insight into tension alterations following injury, and these findings were complemented by in vitro experiments where fibroblasts were subjected to exogenous tensile stress to investigate the link between mechanical tension and cellular behavior. Results: Our study revealed differential HOX gene expression among fibroblasts derived from normal skin, hypertrophic scars, and keloids. Computational simulations predicted injury-induced tension reduction in the skin, and in vitro experiments revealed a negative correlation between tension and fibroblast proliferation. Importantly, we discovered that applying mechanical tension to fibroblasts can modulate HOX gene expression, suggesting a pivotal role of mechanical cues in scar formation and wound healing. Conclusion: This study proposes a model wherein successful wound healing and scar formation are critically dependent on maintaining tensional homeostasis in the skin, mediated by tension-sensitive HOX genes. Our findings highlight the potential of targeting mechanotransduction pathways and tension-sensitive HOX gene expression as therapeutic strategies for abnormal scar prevention and treatment, offering a new perspective on the complex process of scar formation."
   },
   {
     "year": 2024,
@@ -51,46 +55,52 @@ window.PUBLICATIONS = [
     "title": "Biophysical perspectives to understanding cancer-associated fibroblasts",
     "authors": "Devarasou, S., <strong>Kang, M.</strong>, & Shin, J. H.",
     "venue": "APL Bioengineering, 8(2)",
-    "doi": "10.1063/5.0199024"
+    "doi": "10.1063/5.0199024",
+    "abstract": "The understanding of cancer has evolved significantly, with the tumor microenvironment (TME) now recognized as a critical factor influencing the onset and progression of the disease. This broader perspective challenges the traditional view that cancer is primarily caused by mutations, instead emphasizing the dynamic interaction between different cell types and physicochemical factors within the TME. Among these factors, cancer-associated fibroblasts (CAFs) command attention for their profound influence on tumor behavior and patient prognoses. Despite their recognized importance, the biophysical and mechanical interactions of CAFs within the TME remain elusive. This review examines the distinctive physical characteristics of CAFs, their morphological attributes, and mechanical interactions within the TME. We discuss the impact of mechanotransduction on CAF function and highlight how these cells communicate mechanically with neighboring cancer cells, thereby shaping the path of tumor development and progression. By concentrating on the biomechanical regulation of CAFs, this review aims to deepen our understanding of their role in the TME and to illuminate new biomechanical-based therapeutic strategies."
   },
   {
     "year": 2023,
     "type": "Article",
-    "title": "Fibrous matrix architecture-dependent activation of fibroblasts with a cancer-associated fibroblast-like phenotype",
+    "title": "Fibrous Matrix Architecture-Dependent Activation of Fibroblasts with a Cancer-Associated Fibroblast-like Phenotype",
     "authors": "Devarasou, S., <strong>Kang, M.</strong>, Kwon, T. Y., Cho, Y., & Shin, J. H.",
     "venue": "ACS Biomaterials Science & Engineering, 9(1), 280-291",
-    "doi": "10.1021/acsbiomaterials.2c00694"
+    "doi": "10.1021/acsbiomaterials.2c00694",
+    "abstract": "Cancer-associated fibroblasts (CAFs) are one of the most prevalent cell types within the tumor microenvironment (TME). While several physicochemical cues from the TME, including growth factors, cytokines, and ECM specificity, have been identified as essential factors for CAF activation, the precise mechanism of how the ECM architecture regulates CAF initiation remains elusive. Using a gelatin-based electrospun fiber mesh, we examined the effect of matrix fiber density on CAF activation induced by MCF-7 conditioned media (CM). A less dense (3D) gelatin mesh matrix facilitated better activation of dermal fibroblasts into a CAF-like phenotype in the CM than a highly dense (3D) gelatin mesh matrix. In addition, it was discovered that CAF activation on the less dense (LD) matrix is dependent on the cell size-related AKT/mTOR signaling cascade, accompanied by an increase in intracellular tension within the well-spread fibroblasts."
   },
   {
     "year": 2023,
     "type": "Article",
-    "title": "Influence of transforming growth factors beta 1 and beta 3 in the scar formation process",
+    "title": "Influence of Transforming Growth Factors beta 1 and beta 3 in the Scar Formation Process",
     "authors": "Lee, J. S., Cho, H. G., Lee, J. W., Oh, E. J., Kim, H. M., Ko, U. H., <strong>Kang, M.</strong>, Shin, J. H., & Chung, H. Y.",
     "venue": "Journal of Craniofacial Surgery, 34(3), 904-909",
-    "doi": "10.1097/SCS.0000000000009087"
+    "doi": "10.1097/SCS.0000000000009087",
+    "abstract": "Background: Transforming growth factor-beta (TGF-β) plays an instrumental role in forming scars and keloids. TGF-β isoforms exhibit differential expression, indicating distinct wound healing and scar formation functions. However, the role of TGF-β1 and TGF-β3 in wound healing and scar formation remains unclear. This study aimed to compare the specific roles of TGF-β1 and TGF-β3 in wound healing and scar formation by biomolecular analysis. Materials and Methods: The study was conducted by cell isolation and culture cells from a total of 20 human samples. Normal human fibroblasts (NHF) were isolated from normal human samples and myofibroblasts from the different scar types, namely hypertrophic (HT) and keloid (K) scars. NHF and cells from the HT, and K scar, each of which were divided into 3 sample groups: the untreated control, TGF-β1 (10 µg/mL)-treated group, and TGF-β3 (10 µg/mL)-treated group. The results of confocal microscopy and fluorescence-activated cell sorting experiments were compared. Results: Both the HT and K groups had higher α-smooth muscle actin (α-SMA) expression than the NHF group in the untreated control group. In comparison with the untreated group, NHFs showed a significant increase in α-SMA expression in the TGF-β1-treated group. HT showed a high α-SMA level, which was statistically significant compared with the normal fibroblasts. In the TGF-β3-treated group, α-SMA expression was slightly increased in NHF as compared with the untreated group. TGF-β3 treated HT exhibited a greater reduction in α-SMA expression than in the TGF-β1 treated HT. K, on the other hand, had only a minimal effect on the treatment of TGF-β1 and TGF-β3. Conclusions: The findings suggest that TGF-β3 may play a regulatory role in the wound repair process, which could be useful in the development of scar-reducing therapies for patients with scar-related cosmetic concerns."
   },
   {
     "year": 2017,
     "type": "Article",
-    "title": "A comparative study on the Francis turbine performances according to the different vane shape",
+    "title": "A Comparative Study on the Francis Turbine Performances According to the Different Vane Shapes",
     "authors": "Park, N., Kim, K., <strong>Kang, M.</strong>, Suh, S.-H., Ryu, G., Kim, S. J., & Park, T.",
     "venue": "The KSFM Journal of Fluid Machinery, 20(4), 19-24",
-    "doi": "10.5293/kfma.2017.20.4.019"
+    "doi": "10.5293/kfma.2017.20.4.019",
+    "abstract": "The objective of this study is to investigate the Francis turbine performance characteristics according to the different runner vane shapes. The 3D shape for the Francis turbine runner was scanned and geometrical model was generated for CFD calculation. The 3D geometrical modeling for the turbine facility was carried out using 2D CAD drawings. The FEM-based finite volume method was used to simulate for analyzing the flow phenomena and turbine performance characteristics. And the results obtained by CFD simulation were validated with the experimental data. The numerical results were compared with the experimental values. The turbine performances with the modified vane shapes, which was replaced with the well designed shape by mirroring method, were better than those of the old-designed model. In this case the efficiencies were increased up to about 4-5 percents for different flow rates."
   },
   {
     "year": 2017,
     "type": "Article",
-    "title": "A comparative study on the operation capabilities according to the different capsule shapes in pneumatic capsule pipeline",
+    "title": "A Comparative Study on the Operation Capabilities According to the Different Capsule Shapes in Pneumatic Capsule Pipeline",
     "authors": "Kim, H.-H., Jung, Y. H., <strong>Kang, M.</strong>, & Suh, S.-H.",
     "venue": "The KSFM Journal of Fluid Machinery, 20(4), 56-61",
-    "doi": "10.5293/kfma.2017.20.4.056"
+    "doi": "10.5293/kfma.2017.20.4.056",
+    "abstract": "Logistic services are very popular in Korea. Currently the most widely utilized logistic services is truck transportation. It cause a lot of problems such as air pollution, traffic jam and so on. PCP (Pneumatic Capsule Pipeline) might be one of the alternative transportation system. The operation capabilities of PCP is affected by piping configuration and capsule shapes. Thus, in this paper operation performances are investigated by using the different capsule shapes with guide wing and gap in the rubber wheel. It concluded that a capsule with two wings of which reinforced spring stiffness operated effectively to move."
   },
   {
     "year": 2016,
     "type": "Article",
-    "title": "Numerical study on sediment erosion of Francis turbine with different operating conditions and sediment inflow rates",
+    "title": "Numerical Study on Sediment Erosion of Francis Turbine with Different Operating Conditions and Sediment Inflow Rates",
     "authors": "<strong>Kang, M.</strong>, Park, N., & Suh, S.-H.",
     "venue": "Procedia Engineering, 157, 457-464",
-    "doi": "10.1016/j.proeng.2016.08.389"
+    "doi": "10.1016/j.proeng.2016.08.389",
+    "abstract": "Francis turbines are thought to be good solutions for both small and large-scale hydro power plant so, they have been used widely to produce power from the water sources. The turbines can be subject to erosion when the turbines operate in sediment-laden water. The erosion can reduce the performance, changes in flow pattern and even breakdown of turbine. To prevent this erosion in turbine components, predicting the region of erosion might be very useful for developing coating techniques and optimization of hydraulic design of the turbine components. In this study to predict the sediment erosion of Francis turbine runner with different operating conditions and sediment concentrations, Tabakoff and Grant model was used and erosion rate was calculated. In order to figure out the effect of different operating conditions, simulations were conducted at best efficiency and full load condition. Also, to investigate the effect of sediment inflow rates, inflow rates were varied with the value of 1, 5, 10, 20, 30, 40 and 50 kg/s. The predicted erosion patterns were similar for both operating conditions and mainly found on the pressure side of runner blades. Most of the erosion was thought to occur near the outlet side of runner due to high relative velocity for both best efficiency and full load condition. It was also found that erosion rate increased almost linearly on increasing sediment inflow rate regardless of the operating conditions."
   }
 ];

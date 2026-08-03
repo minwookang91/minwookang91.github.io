@@ -164,7 +164,7 @@ h2 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(38px, 5vw,
 .pub-actions { display: flex; gap: 9px; margin-top: 18px; }
 .pub-actions a, .abstract-toggle { display: inline-flex; min-height: 34px; align-items: center; padding: 0 12px; border: 1px solid #bac5ca; border-radius: 7px; background: white; text-decoration: none; color: var(--navy); font-size: 11px; font-weight: 800; letter-spacing: .08em; cursor: pointer; }
 .abstract { max-height: 0; overflow: hidden; opacity: 0; transition: .28s ease; }
-.abstract.open { max-height: 300px; opacity: 1; }
+.abstract.open { max-height: 2400px; opacity: 1; }
 .abstract p { margin: 18px 0 0; padding: 18px; background: white; border-left: 3px solid var(--teal); color: #4e6272; }
 .empty-state { padding: 80px 0; text-align: center; color: var(--muted); }
 .patent-section { border-top: 1px solid var(--line); }
