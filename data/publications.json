@@ -1,25 +1,24 @@
 [
   {
     "year": 2026,
-    "type": "Preprint",
+    "type": "Article",
     "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization",
     "authors": "<strong>Kang, M.</strong>, Cabral, A. T., Sawant, M., & Thiam, H. R.",
-    "venue": "bioRxiv",
+    "venue": "Nucleus",
     "doi": "10.64898/2026.03.30.715467",
-    "status": "Under revision",
+    "status": "Accepted",
     "featured": true,
     "abstract": "Quantifying chromatin-state dynamics in living cells remains challenging, in part because most methods require fixation or cell lysis. Here, we benchmark and introduce three simple live-cell image-derived metrics computed from routine DNA staining—the coefficient of variation (CV), 1-Gini, and the Diffuse Signal Index (DSI), introduced here—as fixation-free readouts of chromatin state. Using HL60-derived neutrophils (dHL-60) undergoing NETosis as a model system with a pronounced compact-to-decompact chromatin transition, we show that all three metrics track progressive chromatin reorganization in live-cell trajectories, but differ markedly in sensitivity: DSI provides the strongest trajectory-level discrimination between NETing and non-NETing cells, followed by 1-Gini and CV. Comparison with Tn5-based chromatin accessibility measurements in fixed cells further shows that all three metrics correlate with chromatin accessibility, supporting their biological relevance. Together, our results provide a practical framework for extracting chromatin-state readouts from routine live-cell DNA staining and identify DSI as the most discriminative metric for tracking chromatin reorganization in this benchmark."
   },
   {
-    "year": 2025,
-    "type": "Preprint",
-    "title": "Chromatin is a long-range force generator that regulates plasma membrane tension and cell integrity independently of gene expression",
-    "authors": "Cabral, A. T., Sawant, M., <strong>Kang, M.</strong>, Liangqi, X., & Thiam, H. R.",
-    "venue": "bioRxiv",
-    "doi": "10.1101/2025.10.02.680155",
-    "status": "Under revision",
+    "year": 2026,
+    "type": "Article",
+    "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription",
+    "authors": "Cabral, A. T., Sawant, M., <strong>Kang, M.</strong>, Xie, L., & Thiam, H. R.",
+    "venue": "Nature Communications",
+    "doi": "10.1038/s41467-026-76578-1",
     "featured": true,
-    "abstract": "Primarily studied for its role in gene expression, chromatin organization is emerging as an important regulator of nuclear mechanics. Although the nucleus is in mechanical equilibrium with the cell, we do not know whether and how chromatin reorganization actively regulates the mechanical properties and downstream behaviors of cells. Here, we tested the hypothesis that as a dynamic crosslinked polymer, chromatin directly impacts cell mechanics independently of transcription by studying NETosis: a transcription-independent process where chromatin decompacts and the plasma membrane (PM) ruptures. Using high resolution microscopy and ATAC-see, we found that chromatin accessibility progressively increases during NETosis suggesting that chromatin binding proteins (CBPs) dissociate from chromatin during NETosis. To determine the identity and dynamics of these dissociated CBPs, we used fluorescent recovery after photobleaching to measure the mobility and localization of the linker histone H1, the nucleosomal histone H3 and the heterochromatin binding protein HP1α. We found that the mobile fraction of nuclear H1 increases during NETosis while fractions of HP1α and H3 diffuse outside of the nucleus suggesting that they become cytosolic osmolytes and potentially alter the mechanical state of cells. Consistently, we found that plasma membrane tension and cell volume increase as chromatin decompacts during NETosis. In non-NETing U2OS cells, we found that inducing chromatin decompaction increases plasma membrane tension, independently of the cytoskeleton, indicating a causal relationship between chromatin organization, cell volume and plasma membrane tension. Our findings reveal a novel non- genetic role of chromatin in cellular biophysics: regulating cell volume, PM tension, and thus, overall cell mechanics. Considering the critical role of cell mechanics in biological processes such as cell migration, proliferation and pathogen killing, our work broadens our understanding of how chromatin regulates cell physiology and pathology. Significance Statement: Chromatin organizes our DNA inside the nucleus and is important for gene expression. However, chromatin is also a polymer which can passively regulate the rigidity of the nucleus, but whether and how chromatin can actively regulate the mechanical properties of the whole cell remains unknown. Here, we leverage the immune process of NETosis to show that the organization of chromatin inside the nucleus actively regulates the volume and tension of cells. Our work establishes chromatin as a long-range force generator in cells, broadening our understanding of the roles of this crucial polymer network in cells and opening the door to new strategies for controlling the mechanical properties of cells as needed by their physiology."
+    "abstract": "Chromatin organizes DNA and regulates nuclear mechanics. However, whether and how chromatin regulates whole-cell mechanics and functions independently of transcription is largely unknown. Here, leveraging transcription-independent NETosis, we show that chromatin decompaction within the nucleus increases plasma membrane tension and cell volume. Mechanistically, we show that chromatin accessibility gradually increases and chromatin binding proteins (CBPs) H1, HP1α, and H3 differentially dissociate from chromatin as it decompacts during NETosis. We posit that dissociated CBPs become osmolytes that alter cellular osmolarity. Consistently, tuning extracellular osmolarity or disrupting regulators of membrane tension and cell volume (mTORC1/2, NHEs, or VRAC ion channels) alters plasma membrane rupture and NETosis execution. In non-NETing U2OS cells, decompacting chromatin increases membrane tension, independently of the cytoskeleton, indicating a causal relationship between chromatin organization and membrane tension. This work shows chromatin as a regulator of whole-cell mechanics, broadening our understanding of the non-genetic roles of chromatin in cell pathophysiology."
   },
   {
     "year": 2025,
