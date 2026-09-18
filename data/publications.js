@@ -4,9 +4,8 @@ window.PUBLICATIONS = [
     "type": "Article",
     "title": "Benchmarking three simple DNA staining-based image metrics for live-cell tracking of chromatin organization",
     "authors": "<strong>Kang, M.</strong>, Cabral, A. T., Sawant, M., & Thiam, H. R.",
-    "venue": "Nucleus",
-    "doi": "10.64898/2026.03.30.715467",
-    "status": "Accepted",
+    "venue": "Nucleus, 17(1), 2721777",
+    "doi": "10.1080/19491034.2026.2721777",
     "featured": true,
     "abstract": "Quantifying chromatin-state dynamics in living cells remains challenging, in part because most methods require fixation or cell lysis. Here, we benchmark and introduce three simple live-cell image-derived metrics computed from routine DNA staining—the coefficient of variation (CV), 1-Gini, and the Diffuse Signal Index (DSI), introduced here—as fixation-free readouts of chromatin state. Using HL60-derived neutrophils (dHL-60) undergoing NETosis as a model system with a pronounced compact-to-decompact chromatin transition, we show that all three metrics track progressive chromatin reorganization in live-cell trajectories, but differ markedly in sensitivity: DSI provides the strongest trajectory-level discrimination between NETing and non-NETing cells, followed by 1-Gini and CV. Comparison with Tn5-based chromatin accessibility measurements in fixed cells further shows that all three metrics correlate with chromatin accessibility, supporting their biological relevance. Together, our results provide a practical framework for extracting chromatin-state readouts from routine live-cell DNA staining and identify DSI as the most discriminative metric for tracking chromatin reorganization in this benchmark."
   },
