@@ -52,6 +52,7 @@ function renderPublications() {
           <div class="pub-actions">
             ${abstractButton}
             <a href="https://doi.org/${pub.doi}" target="_blank" rel="noopener">DOI</a>
+            ${pub.code ? `<a href="${pub.code}" target="_blank" rel="noopener">CODE</a>` : ""}
           </div>
           ${abstract}
         </div>
